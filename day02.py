@@ -77,7 +77,6 @@ a = "Life is too short, You need Python"
 # b = "a:b:c:d"
 # print(b.split(":"))
 
-email = input("email: ") #dongyoon7212@naver.com
-address = input("address: ")
-#id는 dongyoon7212
-print(email,"@",address,".com")
+# email = input("email: ") #dongyoon7212@naver.com
+# address = input("address: ")
+# #id는 dongyoon7212

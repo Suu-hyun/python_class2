@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 딕셔너리(Dictionary)
 # 키-값 쌍으로 데이터를 저장하는 자료형
 # 키는 고유해야 하며, 키는 사용해서 빠르게 접근가능
@@ -125,7 +124,6 @@ print(python)
 Java= set(Java_class) - set(python_class)
 print(Java)
 
-=======
 # 딕셔너리(Dictionary)
 # 키-값 쌍으로 데이터를 저장하는 자료형
 # 키는 고유해야 하며, 키는 사용해서 빠르게 접근가능
@@ -252,4 +250,3 @@ print(python)
 Java= set(Java_class) - set(python_class)
 print(Java)
 
->>>>>>> fb06a520ae3c44b9bb9240f6dd9a04ca4c2cd2b9

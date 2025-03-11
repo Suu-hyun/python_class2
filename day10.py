@@ -74,6 +74,7 @@ while True: #메뉴판
         2. 중고
         3. 전문
         4. 오답노트
+        5. 종료
     """)
 
     choice = input("메뉴를 선택하세요 : ")
@@ -85,6 +86,8 @@ while True: #메뉴판
         study("전문")
     elif choice == "4":
         review()
+    elif choice == "5":
+        break
     else:
         print("다시 선택해 주세요.")
         continue

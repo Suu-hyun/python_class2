@@ -1,0 +1,62 @@
+[
+    {
+        "no": 1802,
+        "word": "newspaper",
+        "meaning": "신문",
+        "level": "초등"
+    },
+    {
+        "no": 502,
+        "word": "clerk",
+        "meaning": "서기",
+        "level": "초등"
+    },
+    {
+        "no": 1982,
+        "word": "pig",
+        "meaning": "돼지",
+        "level": "초등"
+    },
+    {
+        "no": 2149,
+        "word": "quiet",
+        "meaning": "조용한",
+        "level": "초등"
+    },
+    {
+        "no": 1195,
+        "word": "fun",
+        "meaning": "즐거운 생각",
+        "level": "초등"
+    },
+    {
+        "no": 1233,
+        "word": "ghost",
+        "meaning": "유령",
+        "level": "초등"
+    },
+    {
+        "no": 251,
+        "word": "beach",
+        "meaning": "해안",
+        "level": "초등"
+    },
+    {
+        "no": 446,
+        "word": "chain",
+        "meaning": "사슬",
+        "level": "초등"
+    },
+    {
+        "no": 1895,
+        "word": "over",
+        "meaning": "위쪽",
+        "level": "초등"
+    },
+    {
+        "no": 471,
+        "word": "child",
+        "meaning": "아이",
+        "level": "초등"
+    }
+]

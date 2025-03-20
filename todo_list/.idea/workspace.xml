@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa0a7136-1dbc-4e4a-9a1c-eff32271e34c" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../day13/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day13/mypackage/math_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day13/mypackage/string_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo_package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo_package/func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../word_study/mypackage/review/review.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../word_study/mypackage/study/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../word_study/mypackage/study/study.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../word_study/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../review_not.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../words.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2ua2lPTapTwXaqgmMSsddQiqtSS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/python_class2/todo_list"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="fa0a7136-1dbc-4e4a-9a1c-eff32271e34c" name="변경" comment="" />
+      <created>1742472514986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742472514986</updated>
+    </task>
+    <servers />
+  </component>
+</project>

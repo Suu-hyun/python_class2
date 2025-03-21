@@ -73,5 +73,3 @@ import seaborn as sns
 # plt.xlabel("Total Bill ($)")
 # plt.ylabel("Tip ($)")
 # plt.show()
-
-# test

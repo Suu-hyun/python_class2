@@ -18,3 +18,5 @@ can_activate = True
 
 list = [1]
 print(bool(list))
+
+#test

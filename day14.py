@@ -7,10 +7,10 @@
 #         self.model = model
 #         self.price = price
 #         print(f"모델 이름:{self.model} 가격:{self.price} 객체 생성!!")
-#
+
 #     def __del__(self): # 소멸자
 #         print(f"{self.model}의 객체가 소멸됨!!")
-#
+
 #     def drive(self, speed, distance):
 #         print(f"{self.model}가 {speed}의 속도로 {distance}km 만큼 전진")
 
@@ -33,27 +33,27 @@
 #         self.level = level
 #         self.gold = gold
 #         print(nickname, hp, gold, level)
-#
+
 #     def __del__(self):
 #         print("저장하기")
 #         print("저장되었습니다.")
 #
 #     def change_nickname(self, new_nickname):
 #         self.nickname = new_nickname
-#
+
 #     def del_player(self):
 #         print("케삭되었습니다.")
-#
-#
+
+
 # player1 = Player("yoon", 5000, 10000, 100)
 # player1.change_nickname("dong")
 # print(player1.nickname)
-#
-#
-#
+
+
+
 # def introduce(name, age):
 #     print(name, age)
-#
+
 # introduce("이동윤", 27)
 
 # class Person:
@@ -61,10 +61,10 @@
 #         self.name = name
 #         self.age = age
 #         self.email = email
-#
+
 #     def introduce(self):
 #         print(f"이름은 {self.name}이고 나이는{self.age}고 이메일은 {self.email}")
-#
+
 # person1 = Person(27, "dongyoon7212@naver.com", "이동윤")
 # person1.introduce()
 # person2 = Person(20, "example@gmail.com")

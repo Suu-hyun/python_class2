@@ -163,8 +163,7 @@
 # 마지막은 항상 완료를 출력
 try:
     my_dict = {1: "사과", 2: "바나나", 3: "딸기", 4: "포도", 5: "수박"}
-    dict_key = int(input("숫자를 입력 : "))
-    result = my_dict[dict_key]
+    result = my_dict[int(input("키를 입력해 주세요 : "))]
 except KeyError:
     print("해당 키는 존재하지 않습니다.")
 except ValueError:

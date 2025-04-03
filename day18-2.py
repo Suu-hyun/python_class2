@@ -79,3 +79,5 @@ signup_btn = tk.Button(root, text="회원가입", command=signup_click)
 signup_btn.grid(row=3, column=1)
 
 root.mainloop()
+
+# 끝

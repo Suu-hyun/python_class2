@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/파이썬.iml" filepath="$PROJECT_DIR$/.idea/파이썬.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/python_yje.iml" filepath="$PROJECT_DIR$/.idea/python_yje.iml" />
+>>>>>>> 33632faea586d2cc9b306e23893fc68a3e340960
     </modules>
   </component>
 </project>

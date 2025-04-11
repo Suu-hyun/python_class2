@@ -15,7 +15,7 @@ def equal_sign():
 
 root = tk.Tk()
 root.title("계산기")
-# root.gealid character in identometry("300x300")
+root.geometry("300x300")
 
 entry = tk.Entry(root)
 entry.grid(row=0, column=0, columnspan=4)
